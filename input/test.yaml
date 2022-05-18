@@ -1,0 +1,14 @@
+---
+Jobs:
+  Role1: FullStack
+  Role2: AiDeveloper
+Skills:
+  FullStack: Frontend, Backend
+  AiDeveloper: MachineLearning, Backend
+Candidates:
+ Ace: Role1
+ Bose: Role2
+ Crank: Role1
+ Dole: Role2
+ Easter: Role2
+ Folk: Role1
